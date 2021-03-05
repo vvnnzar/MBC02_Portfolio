@@ -4,7 +4,7 @@
 
 Vivianne Zara is currently studying Web Development at Monash Uni. This project has been completed as part of her assessment.
 
-The aim of the project is to provide an online website that showcases Viviannes portfolio.
+The aim of the project is to provide an online website that showcases Vivianne's portfolio.
 
 
 ### Screen layout and Design
