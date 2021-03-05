@@ -6,6 +6,9 @@ Vivianne Zara is currently studying Web Development at Monash Uni. This project 
 
 The aim of the project is to provide an online website that showcases Vivianne's portfolio.
 
+*** Project Link 
+https://vvnnzar.github.io/MBC02_Portfolio/
+
 
 ### Screen layout and Design
 The following image shows the web application's appearance and functionality:
