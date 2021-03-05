@@ -10,9 +10,10 @@ The aim of the project is to provide an online website that showcases Viviannes 
 ### Screen layout and Design
 The following image shows the web application's appearance and functionality:
 
-(![About Vivianne Zara Screen Design](https://github.com/vvnnzar/MBC02_Portfolio/main/assets/mock_design/01-horiseon-website-screen-mock.png))
+(![About Vivianne Zara Screen Design](mock_design/screen_design.png))
 
 ###Acknowledgements
+
 This development was completed in part using the following online references:
 https://www.bing.com/videos/search?q=how+to+build+a+grid+responsive+web&ru=%2fvideos%2fsearch%3fq%3dhow%2bto%2bbuild%2ba%2bgrid%2bresponsive%2bweb%26FORM%3dHDRSC3&view=detail&mid=7C5BDFFAA0A005EBCC2A7C5BDFFAA0A005EBCC2A&&FORM=VDRVRV
 
